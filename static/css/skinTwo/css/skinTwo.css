@@ -1,0 +1,34 @@
+.skinTwo .el-header, .el-footer {
+  background-color: #266eb1;
+  color: #FFF;
+  text-align: center;
+}
+
+.skinTwo .el-aside {
+  background-color: #266eb1;
+  color: #000;
+  text-align: center;
+  overflow: hidden;
+  height: auto;
+  min-height: 750px;
+}
+
+.skinTwo .el-main {
+  background-color: #FFF;
+  color: #333;
+}
+
+.skinTwo .el-menu-ul {
+  background-color: #266eb1;
+}
+.skinTwo .el-menu{
+  background-color: #eef1f6;
+}
+.skinTwo .el-dropdown{
+  color: #FFF;
+}
+.skinTwo .el-menu-item:focus,
+.skinTwo .el-menu-item:hover,
+.skinTwo .el-submenu__title:hover{
+  background-color: #d1dbe5;
+}

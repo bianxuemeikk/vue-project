@@ -1,0 +1,35 @@
+.skinOne .el-header, .el-footer {
+  background-color: #B3C0D1;
+  color: #333;
+  text-align: center;
+}
+
+.skinOne .el-aside {
+  background-color: #20222A;
+  color: #333;
+  text-align: center;
+  overflow: hidden;
+  height: auto;
+  min-height: 750px;
+}
+
+.skinOne .el-main {
+  background-color: #E9EEF3;
+  color: #333;
+}
+
+.skinOne .el-menu-ul {
+  background-color: #B3C0D1;
+}
+.skinOne .el-menu{
+  background-color: #20222A;
+}
+.skinOne .el-menu-item
+,.skinOne .el-submenu__title{
+  color: #FFF;
+}
+.skinOne .el-menu-item:focus,
+.skinOne .el-menu-item:hover,
+.skinOne .el-submenu__title:hover{
+  background-color: #546871;
+}
